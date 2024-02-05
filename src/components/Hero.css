@@ -1,0 +1,53 @@
+/*HERO*/
+
+.hero img {
+  height: 455px;
+  object-fit: cover;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.hero div {
+  height: 269px;
+  width: 409px;
+  border: solid 2px white;
+  position: absolute;
+  top: 74px;
+  left: 70px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 3px;
+
+  padding: 25px;
+}
+h2 {
+  line-height: 40px;
+  font-size: 38px;
+}
+.button-hero {
+  background-color: #2baeb7;
+  text-decoration: none;
+  text-align: center;
+  border: none;
+  border-radius: 4px;
+  color: #fff;
+  font-size: 16px;
+  height: 45px;
+  margin-top: 32px;
+  padding: 15px 0px;
+  width: 187px;
+}
+.contenair-hero {
+  width: 100%;
+}
+.hero {
+  position: relative;
+}
+.tear {
+  height: 10pxpx;
+  position: absolute;
+  top: 200px;
+  right: 0px;
+  left: 250px;
+}

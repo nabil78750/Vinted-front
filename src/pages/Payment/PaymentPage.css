@@ -1,0 +1,12 @@
+.payment-container {
+  background-color: #ebedee;
+  padding-bottom: 40px;
+}
+.payment-wrapper {
+  margin-top: 36px;
+  width: 599px;
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  margin-bottom: 40px;
+}
